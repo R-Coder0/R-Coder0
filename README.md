@@ -1,4 +1,3 @@
-![logo](https://github.com/R-Coder0/R-Coder0/blob/main/Github.png)
 <h1 align="center">Hi 👋, I'm Rishabh Pratap</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBsY2g4NzUwMjVubGE2NXBrY2dvY3Jvc3Nic25vOXB0Z3RiZHA5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
