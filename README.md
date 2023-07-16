@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://r-coder0.github.io/Personal_Portfolio/](https://r-coder0.github.io/Personal_Portfolio/)
+- 👨‍💻 All of my projects are available at [MY-Portfolio](https://r-coder0.github.io/personal-portfolio/)
 
 - 💬 Ask me about **HTML, Css, Js, Bootstrap**
 
