@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-coder0&label=Profile%20views&color=0e75b6&style=flat" alt="r-coder0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r-coder0" alt="r-coder0" /></a> </p>
-
 - 🔭 I’m currently working on [MERN Protfolio](https://r-coder0.github.io/Rishabh_MERN/)
 
 - 👨‍💻 All of my projects are available at [https://r-coder0.github.io/Rishabh_MERN/](https://r-coder0.github.io/Rishabh_MERN/)
